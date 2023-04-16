@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tomaszbar4/Dictionary-React-App/static/css/main.8ac636ad.css",
+    "main.js": "/tomaszbar4/Dictionary-React-App/static/js/main.db21fe78.js",
+    "static/js/787.954e2355.chunk.js": "/tomaszbar4/Dictionary-React-App/static/js/787.954e2355.chunk.js",
+    "index.html": "/tomaszbar4/Dictionary-React-App/index.html",
+    "main.8ac636ad.css.map": "/tomaszbar4/Dictionary-React-App/static/css/main.8ac636ad.css.map",
+    "main.db21fe78.js.map": "/tomaszbar4/Dictionary-React-App/static/js/main.db21fe78.js.map",
+    "787.954e2355.chunk.js.map": "/tomaszbar4/Dictionary-React-App/static/js/787.954e2355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac636ad.css",
+    "static/js/main.db21fe78.js"
+  ]
+}
